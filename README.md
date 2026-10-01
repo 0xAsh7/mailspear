@@ -96,7 +96,7 @@ Dissect incoming emails with **10 analysis sub-tools**:
 ### Quick Install (Recommended)
 
 ```bash
-git clone https://github.com/rexoos/mailspear.git
+git clone https://github.com/0xAsh7/mailspear.git
 cd mailspear
 chmod +x install.sh
 ./install.sh
