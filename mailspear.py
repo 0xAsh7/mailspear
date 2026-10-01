@@ -224,7 +224,7 @@ def print_banner():
     print(f" {C}║{R}   {D}Email Spoofing & Analysis Tool{R}          {C}║{R}")
     print(f" {C}║{R}                                           {C}║{R}")
     print(f" {C}║{R}   {D}v{__version__}{R}                                  {C}║{R}")
-    print(f" {C}║{R}   {D}By Ashish Sangar (@rexoos){R}              {C}║{R}")
+    print(f" {C}║{R}   {D}By Ashish Sangar (@0xAsh7){R}              {C}║{R}")
     print(f" {C}║{R}                                           {C}║{R}")
     print(f" {C}╚═══════════════════════════════════════════╝{R}")
 
